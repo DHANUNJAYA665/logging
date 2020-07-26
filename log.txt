@@ -1,0 +1,17 @@
+
+2020-07-22 21:14:07 INFO  com.epam.loggingdemo.App:15 -Entered into the setPrinciple method
+2020-07-22 21:14:07 INFO  com.epam.loggingdemo.App:16 -Exited from the setPrinciple method
+2020-07-22 21:14:07 INFO  com.epam.loggingdemo.App:19 -Entered into the setRate method
+2020-07-22 21:14:07 INFO  com.epam.loggingdemo.App:20 -Exited from the setRate method
+2020-07-22 21:14:07 INFO  com.epam.loggingdemo.App:23 -Entered into setTime method
+2020-07-22 21:14:07 INFO  com.epam.loggingdemo.App:24 -Exited from the setTime method
+2020-07-22 21:14:07 INFO  com.epam.loggingdemo.App:27 -Entered into the getPrinciple method
+2020-07-22 21:14:07 INFO  com.epam.loggingdemo.App:29 -Exited from the setPrinciple method
+2020-07-22 21:14:07 INFO  com.epam.loggingdemo.App:31 -Entered into the setRate method
+2020-07-22 21:14:07 INFO  com.epam.loggingdemo.App:32 -Exited from the setRate method
+2020-07-22 21:14:07 INFO  com.epam.loggingdemo.App:35 -Entered into the getTime method
+2020-07-22 21:14:07 INFO  com.epam.loggingdemo.App:37 -Exited from the getTime method
+2020-07-22 21:14:07 INFO  com.epam.loggingdemo.App:38 -Entered into the simpleIntrest method
+2020-07-22 21:14:07 INFO  com.epam.loggingdemo.App:40 -Entered into setPrinciple method
+2020-07-22 21:14:07 INFO  com.epam.loggingdemo.App:42 -Entred into compoundIntrest method
+2020-07-22 21:14:07 INFO  com.epam.loggingdemo.App:44 -Entered into setPrinciple method
